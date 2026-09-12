@@ -1,8 +1,9 @@
-# PF Lab 03 — GitHub and C Programming
+# PF Lab 03 — Introduction to GitHub and C Programming Language
 
 **Name:** Mahek
 **Roll Number:** 26k-2011
-**Lab Title:** GitHub and Introduction to C Programming
+**Lab Title:** Introduction to GitHub and C
+Programming Language
 
 ## Introduction
 
